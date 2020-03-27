@@ -1,0 +1,4 @@
+[submodule "aitmlouk/cenit"]
+	path = aitmlouk/cenit
+	url = git@github.com:aitmlouk/cenit.git
+	branch = master
